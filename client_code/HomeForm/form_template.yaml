@@ -82,7 +82,7 @@ components:
         Want more help? Check out the tutorials on the Anvil website!', font: '',
       spacing_above: small, spacing_below: small, data: null, background: '', format: markdown}
     name: sample_app_description
-    layout_properties: {grid_position: 'CUSAQI,LVACLQ'}
+    layout_properties: {grid_position: 'CUSAQI,WYMOOU'}
 - type: FlowPanel
   properties: {}
   name: navbar_links
